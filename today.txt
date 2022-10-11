@@ -1,0 +1,6 @@
+ Verify if display first name is off then broadcast message in mail does not show first name
+ verify If patient has Spanish as preferred language in appointment data then send message in Spanish
+@Email46 verify if user receive manual reminder in mail then it will reflect on the modal pop up history
+ verify user receives appt scheduled and reminder mail when appt is scheduled from PSS
+ verify arrival instruction msg received to patient is default msg + Customized msg when custominstruction is entered for English language
+ verify user can see 'start precheck' in mail when precheck is on
